@@ -9,4 +9,4 @@
 <body>
     <h1 class="test">Welcome to Laravel Page.</h1>
 </body>
-</html>
+</html> 
